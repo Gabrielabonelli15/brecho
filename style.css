@@ -17,6 +17,21 @@
     max-width: 100%;
     height: auto;
 }
+.container-imagens-calca {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 10px;
+}
+
+.container-imagens-calca img {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+    width: 70%;
+    max-width: 100%;
+    height: auto;
+}
+
 
 ul {
     display: flex;
