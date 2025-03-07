@@ -78,8 +78,13 @@ h2{
     align-items: center;
 }
 
+<<<<<<< HEAD
 .sale{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:  rgb(119, 73, 3);
     text-align: center;
+=======
+.flex{
+    display: flex;
+>>>>>>> 1567c5d80a6c298ca87b570d277e7f74695d6d52
 }
