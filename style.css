@@ -22,3 +22,17 @@ body{
     background-color: rgb(192, 223, 212);
     flex-flow: row;
 }
+
+ul {
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 50px;
+}
+
+a {
+    color: rgb(210, 180, 9);
+    text-decoration: none;
+}
