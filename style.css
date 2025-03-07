@@ -90,5 +90,8 @@ h2{
 }
 
 .centerr{
+    display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
