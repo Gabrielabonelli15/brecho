@@ -30,15 +30,16 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
-    color: rgb(210, 180, 9);
+    color: rgb(141, 118, 83);
     text-decoration: none;
 }
 .center {
     text-align: center;
-    color: rgb(210, 180, 9);
-    font-family: initial;
+    color: rgb(141, 118, 83);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     ;
 }
