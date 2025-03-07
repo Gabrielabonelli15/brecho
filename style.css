@@ -36,3 +36,9 @@ a {
     color: rgb(210, 180, 9);
     text-decoration: none;
 }
+.center {
+    text-align: center;
+    color: rgb(210, 180, 9);
+    font-family: initial;
+    ;
+}
