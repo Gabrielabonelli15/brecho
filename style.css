@@ -19,20 +19,28 @@ body{
     flex-shrink: 10px;
     object-fit: cover;
     scroll-behavior: smooth;
-    background-color: rgb(192, 223, 212);
+    background-color: rgb(253, 235, 208);
     flex-flow: row;
 }
 
 ul {
     display: flex;
-    color: aliceblue;
+    color: rgb(192, 170, 137);
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
     padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:  rgb(192, 170, 137);
 }
 
 a {
-    color: rgb(210, 180, 9);
+    color: rgb(255, 247, 234);
     text-decoration: none;
+}
+.center {
+    text-align: center;
+    color: rgb(141, 118, 83);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    ;
 }
