@@ -3,6 +3,9 @@
     max-width: 800px;
 }
 
+body{
+    background-color: antiquewhite;
+}
 .container-imagens {
     display: flex;
     overflow-x: auto;
@@ -32,7 +35,6 @@
     height:300px;
 }
 
-
 ul {
     display: flex;
     color: rgb(192, 170, 137);
@@ -52,11 +54,13 @@ a {
     text-align: center;
     color: rgb(141, 118, 83);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    ;
 }
 h2{
-    font-size: 200%;
+    font-size: 160%;
     text-align: center;
-    background-color: rgb(161, 139, 10);
-    color:  rgb(4, 41, 99);
+    color:  rgb(145, 89, 6);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#marca{
+    align-items: center;
 }
