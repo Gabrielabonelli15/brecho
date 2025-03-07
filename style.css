@@ -71,9 +71,15 @@ a {
 h2{
     font-size: 160%;
     text-align: center;
-    color:  rgb(145, 89, 6);
+    color:  rgb(119, 73, 3);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#marca{
+.marca{
     align-items: center;
+}
+
+.sale{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:  rgb(119, 73, 3);
+    text-align: center;
 }
