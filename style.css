@@ -44,3 +44,9 @@ a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     ;
 }
+h2{
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(161, 139, 10);
+    color:  rgb(4, 41, 99);
+}
